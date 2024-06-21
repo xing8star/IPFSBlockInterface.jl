@@ -1,4 +1,4 @@
-name = "IPFSBlockInterface"
+name = "IPFSBlockInterfaces"
 uuid = "71607359-8583-44b5-b689-51191bfa9e92"
 authors = ["xing8star <xing0star@live.hk>"]
 version = "0.1.0"
